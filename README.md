@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a personal voice assistant
-- 🌱 I’m currently learning Arduino (C++)
-- 📫 How to reach me: Please don't
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: Discord (the_mute1)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I game more than I code
 
