@@ -57,13 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![TheAgent-1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAgent-1&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAgent-1&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📡 Homelab At A Glance
 
 ```
@@ -75,4 +68,4 @@ Router  — Linksys WRT1900AC → OpenWrt · AdGuard Home · Static DHCP
 
 ---
 
-*Based in Auckland 🇳🇿 · Open to UK relocation for the right role*
+
