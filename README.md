@@ -61,9 +61,10 @@
 ## 📡 Homelab At A Glance
 
 ```
-Node 1 — i5 Docker Host     → CS2 · Crafty Controller · n8n · Gitea · CasaOS
-Node 2 — GPU Node (GTX1070) → Ollama · Jellyfin · Stable Diffusion
-Router  — Linksys WRT1900AC → OpenWrt · AdGuard Home · Static DHCP
+Node 1 - i5 Docker Host      → CS2 · Crafty Controller · n8n · Gitea · CasaOS
+Node 2 - GPU Node (GTX1070)  → Ollama · Jellyfin · Stable Diffusion
+Node 3 - Proxmox             → Home Assistant
+Router - Linksys WRT1900AC   → OpenWrt · AdGuard Home · Static DHCP
 ```
 
 ---
