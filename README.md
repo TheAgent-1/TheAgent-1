@@ -54,6 +54,7 @@
 | **Gull** | Discord workflow chatbot for business automation, built on n8n |
 | **Velocity Network** | Self-hosted Minecraft proxy network — NeoForge survival, creative, and VR modpack |
 | **BaseOS** | CC:Tweaked pseudo-OS with coroutine-based program isolation and FastAPI backend |
+| **Minecraft-MicroServices** | A collection of APIs to assist with CC: Tweaked data transfer |
 
 ---
 
