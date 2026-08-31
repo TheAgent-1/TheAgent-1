@@ -62,7 +62,6 @@
 ```
 Node 1 — i5 Docker Host     → CS2 · Crafty Controller · n8n · Gitea · CasaOS
 Node 2 — GPU Node (GTX1070) → Ollama · Jellyfin · Stable Diffusion
-Node 3 — Raspberry Pi       → Homepage · Uptime Kuma · Portainer · Guacamole
 Router  — Linksys WRT1900AC → OpenWrt · AdGuard Home · Static DHCP
 ```
 
