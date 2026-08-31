@@ -7,10 +7,10 @@
 
 ## 🧠 About Me
 
-- 🖥️ IT student based in **Auckland, NZ** — infrastructure & server engineering is where I actually live
+- 🖥️ IT student based in **Auckland, NZ** - infrastructure & server engineering is where I actually live
 - 🤖 I build AI workflow systems and local LLM tooling (currently: Ash & GullAI as n8n workflows)
-- 🏠 Running a multi-node homelab: Docker, Proxmox, the works — no cloud required
-- 🎮 Game server nerd — CS2, Minecraft networks, modded everything
+- 🏠 Running a multi-node homelab: Docker, Proxmox, the works - no cloud required
+- 🎮 Game server nerd - CS2, Minecraft networks, modded everything
 - ⚙️ Engineering-first mindset: if I can think of more to add, the project isn't done
 - 🍞 Bread baker when the servers are cooperating
 
@@ -49,10 +49,10 @@
 
 | Project | What it is |
 |---|---|
-| **cs2-panel** | Flask/Docker web panel for CS2 dedicated server management — RCON, map control, workshop maps |
-| **Ash** | Personal AI assistant running on local Ollama — my main long-term AI project |
+| **cs2-panel** | Flask/Docker web panel for CS2 dedicated server management - RCON, map control, workshop maps |
+| **Ash** | Personal AI assistant running on local Ollama - my main long-term AI project |
 | **Gull** | Discord workflow chatbot for business automation, built on n8n |
-| **Velocity Network** | Self-hosted Minecraft proxy network — NeoForge survival, creative, and VR modpack |
+| **Velocity Network** | Self-hosted Minecraft proxy network - NeoForge survival, creative, and VR modpack |
 | **BaseOS** | CC:Tweaked pseudo-OS with coroutine-based program isolation and FastAPI backend |
 | **Minecraft-MicroServices** | A collection of APIs to assist with CC: Tweaked data transfer |
 
